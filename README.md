@@ -4,7 +4,7 @@ Objective:
 
 
 Methodology:
-1. Library used- ast (to convert dict to list), pickle (to make a model file)
+1. Library used- ast (data inside string to original datatype like list or dict), pickle (to make a model file)
 2. Algorithms used- Bag of Words, BERT
 
 
